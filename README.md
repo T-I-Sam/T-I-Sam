@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Samuel Idoubirapadei Tarawou 
+# My name is Samuel Idoubirapadei Tarawou 
 
 - 🔭 I’m currently working on upskilling myself in the tech space
 - 🌱 I’m currently learning new skills in the area of data analytics 
